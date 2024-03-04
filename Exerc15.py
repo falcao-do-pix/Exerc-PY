@@ -16,18 +16,15 @@ e. calcule os descontos e o salário líquido, conforme a tabela abaixo:
       = Salário Liquido : R$
 """
 
-# Entrada de Dados
 salario_hora = float(input("Quanto você ganha por hora? R$"))
 horas_trabalho = int(input("Qual foi a sua quantidade de horas trabalhadas no mês? "))
 
-# Cálculos
 salario_bruto = salario_hora * horas_trabalho
 valor_ir = salario_bruto * 0.11
 valor_inss = salario_bruto * 0.08
 valor_sindicato = salario_bruto * 0.05
 salario_liquido = salario_bruto - (valor_ir + valor_inss + valor_sindicato)
 
-# Saída
 print()
 print("-" * 25)
 print(f"Salário Bruto: R${salario_bruto:.2f}")

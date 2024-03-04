@@ -1,10 +1,5 @@
 
 """
-Faculdade Martha Falcão Wyden
-Disciplina: Desenvolvimento Rápido de Aplicações em Python
-Aluno: Leonardo Fabrício de Ávila Silva
-Matrícula: 202203284649
-
 13) Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu
 peso ideal, utilizando as seguintes fórmulas:
 a. Para homens: (72.7*h) - 58

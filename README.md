@@ -2,7 +2,17 @@
 
  ### Repositório para os exercícios da disciplina de RAD
 ### Por:
-# Vitor Mota
-# Vitor Melo
-# Jefferson Damião
-# Leonardo Fabrício
+# ⚡Vitor Mota⚡
+# ⚡Vitor Melo⚡
+# ⚡Jefferson Damião⚡
+# ⚡Leonardo Fabrício⚡
+
+<!--
+- 🔭 I’m currently working on @@@@@@
+- 🌱 I’m currently learning Objects Oriented Programing 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...

@@ -1,5 +1,3 @@
-#72.7 * altura - 58
-
 altura = float( input("Digite a sua altura: ") )
 
 peso = (72.7 * altura) - 58
